@@ -1,0 +1,7 @@
+# Files
+*.DS_Store
+
+# Directories
+_build/
+.babel/
+node_modules/
